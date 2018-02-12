@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0000ff</color>
+    <color name="colorPrimaryDark">#ffff00</color>
+    <color name="colorAccent">@android:color/holo_red_dark</color>
+    <color name="colorAnswers">#1ad1fa</color>
+    <color name="colorAnswersPair">#ff0000</color>
+    <color name="colorButton">#000000</color>
+    <color name="colorButtonBg">#1ad1fa</color>
+    <color name="colorSeparator">#000070</color>
+    <color name="colorSeparatorBg">#5ad1fa</color>
+    <color name="colorResults">#000000</color>
+
+    <color name="colorQuizQuestion">#1ad1fa</color>
+</resources>
